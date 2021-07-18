@@ -1,0 +1,3 @@
+- Hey, I'm Tim Toler :)
+- I am a fifteen year old programmer looking to improve.
+- Have a nice day!
